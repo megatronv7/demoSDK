@@ -1,0 +1,30 @@
+{
+  "name": "demosdk",
+  "version": "0.1.0",
+  "description": "lorem ipsem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=10.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megatronv7/demoSDK.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsem"
+  ],
+  "author": "scott kim <scott@spl.yt> (http://google.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megatronv7/demoSDK/issues"
+  },
+  "homepage": "https://github.com/megatronv7/demoSDK#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
